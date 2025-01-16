@@ -1,6 +1,6 @@
 // No utilizar nunca var para declarar variables en javascript(Mala praxis)
 //Tanto let como const
-let miVariable = 23;ç
+let miVariable = 23;
 
 const nombre = "Richard";
 
