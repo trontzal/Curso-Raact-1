@@ -20,3 +20,10 @@ const equiposFutbol = [
         ciudad: "Valencia",
     }
 ]
+
+const miVariable = "Hola mundo";
+
+export{
+    equiposFutbol as default,
+    miVariable
+}
