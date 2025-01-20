@@ -13,3 +13,5 @@ if(miVariable > 20){
 }
 
 console.log("Hola mundo")
+
+// const aplicado a un objeto hace que ese obejeto no pueda ser sustituido
